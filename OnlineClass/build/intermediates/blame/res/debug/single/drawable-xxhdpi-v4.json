@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "E:\\AndP\\OLClass\\OnlineClass\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\back_pressed.png",
+        "source": "E:\\AndP\\OLClass\\OnlineClass\\src\\main\\res\\drawable-xxhdpi\\back_pressed.png"
+    },
+    {
+        "merged": "E:\\AndP\\OLClass\\OnlineClass\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\back.png",
+        "source": "E:\\AndP\\OLClass\\OnlineClass\\src\\main\\res\\drawable-xxhdpi\\back.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\OLClass\\OnlineClass\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\back.png",
+        "source": "E:\\AndroidStudioProjects\\OLClass\\OnlineClass\\src\\main\\res\\drawable-xxhdpi\\back.png"
+    },
+    {
+        "merged": "E:\\AndP\\OLClass\\OnlineClass\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\search.png",
+        "source": "E:\\AndP\\OLClass\\OnlineClass\\src\\main\\res\\drawable-xxhdpi\\search.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\OLClass\\OnlineClass\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_launcher.png",
+        "source": "E:\\AndroidStudioProjects\\OLClass\\OnlineClass\\src\\main\\res\\drawable-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\AndP\\OLClass\\OnlineClass\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\home.png",
+        "source": "E:\\AndP\\OLClass\\OnlineClass\\src\\main\\res\\drawable-xxhdpi\\home.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\OLClass\\OnlineClass\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\home.png",
+        "source": "E:\\AndroidStudioProjects\\OLClass\\OnlineClass\\src\\main\\res\\drawable-xxhdpi\\home.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\OLClass\\OnlineClass\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\search.png",
+        "source": "E:\\AndroidStudioProjects\\OLClass\\OnlineClass\\src\\main\\res\\drawable-xxhdpi\\search.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\OLClass\\OnlineClass\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\back_pressed.png",
+        "source": "E:\\AndroidStudioProjects\\OLClass\\OnlineClass\\src\\main\\res\\drawable-xxhdpi\\back_pressed.png"
+    },
+    {
+        "merged": "E:\\AndP\\OLClass\\OnlineClass\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_launcher.png",
+        "source": "E:\\AndP\\OLClass\\OnlineClass\\src\\main\\res\\drawable-xxhdpi\\ic_launcher.png"
+    }
+]

@@ -1,0 +1,658 @@
+[
+    {
+        "merged": "E:\\AndroidStudioProjects\\OLClass\\OnlineClass\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\phone.png",
+        "source": "E:\\AndroidStudioProjects\\OLClass\\OnlineClass\\src\\main\\res\\drawable-xhdpi\\phone.png"
+    },
+    {
+        "merged": "E:\\AndP\\OLClass\\OnlineClass\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\about_msg_green.png",
+        "source": "E:\\AndP\\OLClass\\OnlineClass\\src\\main\\res\\drawable-xhdpi\\about_msg_green.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\OLClass\\OnlineClass\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\famous_book_normal.png",
+        "source": "E:\\AndroidStudioProjects\\OLClass\\OnlineClass\\src\\main\\res\\drawable-xhdpi\\famous_book_normal.png"
+    },
+    {
+        "merged": "E:\\AndP\\OLClass\\OnlineClass\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\seek_ponit.png",
+        "source": "E:\\AndP\\OLClass\\OnlineClass\\src\\main\\res\\drawable-xhdpi\\seek_ponit.png"
+    },
+    {
+        "merged": "E:\\AndP\\OLClass\\OnlineClass\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\about_me_normal.png",
+        "source": "E:\\AndP\\OLClass\\OnlineClass\\src\\main\\res\\drawable-xhdpi\\about_me_normal.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\OLClass\\OnlineClass\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\image_page_bg.png",
+        "source": "E:\\AndroidStudioProjects\\OLClass\\OnlineClass\\src\\main\\res\\drawable-xhdpi\\image_page_bg.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\OLClass\\OnlineClass\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\edit_bg.9.png",
+        "source": "E:\\AndroidStudioProjects\\OLClass\\OnlineClass\\src\\main\\res\\drawable-xhdpi\\edit_bg.9.png"
+    },
+    {
+        "merged": "E:\\AndP\\OLClass\\OnlineClass\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\money_pressed.png",
+        "source": "E:\\AndP\\OLClass\\OnlineClass\\src\\main\\res\\drawable-xhdpi\\money_pressed.png"
+    },
+    {
+        "merged": "E:\\AndP\\OLClass\\OnlineClass\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\register_green.png",
+        "source": "E:\\AndP\\OLClass\\OnlineClass\\src\\main\\res\\drawable-xhdpi\\register_green.png"
+    },
+    {
+        "merged": "E:\\AndP\\OLClass\\OnlineClass\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\tab_unselected_focused_example.9.png",
+        "source": "E:\\AndP\\OLClass\\OnlineClass\\src\\main\\res\\drawable-xhdpi\\tab_unselected_focused_example.9.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\OLClass\\OnlineClass\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\exam_normal.png",
+        "source": "E:\\AndroidStudioProjects\\OLClass\\OnlineClass\\src\\main\\res\\drawable-xhdpi\\exam_normal.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\OLClass\\OnlineClass\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\password_gray.png",
+        "source": "E:\\AndroidStudioProjects\\OLClass\\OnlineClass\\src\\main\\res\\drawable-xhdpi\\password_gray.png"
+    },
+    {
+        "merged": "E:\\AndP\\OLClass\\OnlineClass\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\exam_pressed.png",
+        "source": "E:\\AndP\\OLClass\\OnlineClass\\src\\main\\res\\drawable-xhdpi\\exam_pressed.png"
+    },
+    {
+        "merged": "E:\\AndP\\OLClass\\OnlineClass\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\my_download_normal.png",
+        "source": "E:\\AndP\\OLClass\\OnlineClass\\src\\main\\res\\drawable-xhdpi\\my_download_normal.png"
+    },
+    {
+        "merged": "E:\\AndP\\OLClass\\OnlineClass\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\load_more.png",
+        "source": "E:\\AndP\\OLClass\\OnlineClass\\src\\main\\res\\drawable-xhdpi\\load_more.png"
+    },
+    {
+        "merged": "E:\\AndP\\OLClass\\OnlineClass\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\seekbar_bg.png",
+        "source": "E:\\AndP\\OLClass\\OnlineClass\\src\\main\\res\\drawable-xhdpi\\seekbar_bg.png"
+    },
+    {
+        "merged": "E:\\AndP\\OLClass\\OnlineClass\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\download_del.png",
+        "source": "E:\\AndP\\OLClass\\OnlineClass\\src\\main\\res\\drawable-xhdpi\\download_del.png"
+    },
+    {
+        "merged": "E:\\AndP\\OLClass\\OnlineClass\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\user_home_pressed.png",
+        "source": "E:\\AndP\\OLClass\\OnlineClass\\src\\main\\res\\drawable-xhdpi\\user_home_pressed.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\OLClass\\OnlineClass\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\number_normal.png",
+        "source": "E:\\AndroidStudioProjects\\OLClass\\OnlineClass\\src\\main\\res\\drawable-xhdpi\\number_normal.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\OLClass\\OnlineClass\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_launcher.png",
+        "source": "E:\\AndroidStudioProjects\\OLClass\\OnlineClass\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\AndP\\OLClass\\OnlineClass\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\chinese_pressed.png",
+        "source": "E:\\AndP\\OLClass\\OnlineClass\\src\\main\\res\\drawable-xhdpi\\chinese_pressed.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\OLClass\\OnlineClass\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\user_normal.png",
+        "source": "E:\\AndroidStudioProjects\\OLClass\\OnlineClass\\src\\main\\res\\drawable-xhdpi\\user_normal.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\OLClass\\OnlineClass\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\book_coner.png",
+        "source": "E:\\AndroidStudioProjects\\OLClass\\OnlineClass\\src\\main\\res\\drawable-xhdpi\\book_coner.png"
+    },
+    {
+        "merged": "E:\\AndP\\OLClass\\OnlineClass\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\contact_us_pressed.png",
+        "source": "E:\\AndP\\OLClass\\OnlineClass\\src\\main\\res\\drawable-xhdpi\\contact_us_pressed.png"
+    },
+    {
+        "merged": "E:\\AndP\\OLClass\\OnlineClass\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\vpi__tab_selected_pressed_holo.9.png",
+        "source": "E:\\AndP\\OLClass\\OnlineClass\\src\\main\\res\\drawable-xhdpi\\vpi__tab_selected_pressed_holo.9.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\OLClass\\OnlineClass\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\g_default.png",
+        "source": "E:\\AndroidStudioProjects\\OLClass\\OnlineClass\\src\\main\\res\\drawable-xhdpi\\g_default.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\OLClass\\OnlineClass\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\best_head3_pressed.png",
+        "source": "E:\\AndroidStudioProjects\\OLClass\\OnlineClass\\src\\main\\res\\drawable-xhdpi\\best_head3_pressed.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\OLClass\\OnlineClass\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\no_checked.png",
+        "source": "E:\\AndroidStudioProjects\\OLClass\\OnlineClass\\src\\main\\res\\drawable-xhdpi\\no_checked.png"
+    },
+    {
+        "merged": "E:\\AndP\\OLClass\\OnlineClass\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\tab_selected_focused_example.9.png",
+        "source": "E:\\AndP\\OLClass\\OnlineClass\\src\\main\\res\\drawable-xhdpi\\tab_selected_focused_example.9.png"
+    },
+    {
+        "merged": "E:\\AndP\\OLClass\\OnlineClass\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\game_default.png",
+        "source": "E:\\AndP\\OLClass\\OnlineClass\\src\\main\\res\\drawable-xhdpi\\game_default.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\OLClass\\OnlineClass\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\password.png",
+        "source": "E:\\AndroidStudioProjects\\OLClass\\OnlineClass\\src\\main\\res\\drawable-xhdpi\\password.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\OLClass\\OnlineClass\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\english_default.png",
+        "source": "E:\\AndroidStudioProjects\\OLClass\\OnlineClass\\src\\main\\res\\drawable-xhdpi\\english_default.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\OLClass\\OnlineClass\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\setting_pressed_list_bg.9.png",
+        "source": "E:\\AndroidStudioProjects\\OLClass\\OnlineClass\\src\\main\\res\\drawable-xhdpi\\setting_pressed_list_bg.9.png"
+    },
+    {
+        "merged": "E:\\AndP\\OLClass\\OnlineClass\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\tab_unselected_pressed_example.9.png",
+        "source": "E:\\AndP\\OLClass\\OnlineClass\\src\\main\\res\\drawable-xhdpi\\tab_unselected_pressed_example.9.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\OLClass\\OnlineClass\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\name_tag.png",
+        "source": "E:\\AndroidStudioProjects\\OLClass\\OnlineClass\\src\\main\\res\\drawable-xhdpi\\name_tag.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\OLClass\\OnlineClass\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\vpi__tab_unselected_pressed_holo.9.png",
+        "source": "E:\\AndroidStudioProjects\\OLClass\\OnlineClass\\src\\main\\res\\drawable-xhdpi\\vpi__tab_unselected_pressed_holo.9.png"
+    },
+    {
+        "merged": "E:\\AndP\\OLClass\\OnlineClass\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\page_indicator_unfocused.png",
+        "source": "E:\\AndP\\OLClass\\OnlineClass\\src\\main\\res\\drawable-xhdpi\\page_indicator_unfocused.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\OLClass\\OnlineClass\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\head_logo.png",
+        "source": "E:\\AndroidStudioProjects\\OLClass\\OnlineClass\\src\\main\\res\\drawable-xhdpi\\head_logo.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\OLClass\\OnlineClass\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\register_edit.png",
+        "source": "E:\\AndroidStudioProjects\\OLClass\\OnlineClass\\src\\main\\res\\drawable-xhdpi\\register_edit.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\OLClass\\OnlineClass\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\setting_pressed.png",
+        "source": "E:\\AndroidStudioProjects\\OLClass\\OnlineClass\\src\\main\\res\\drawable-xhdpi\\setting_pressed.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\OLClass\\OnlineClass\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\download_green.png",
+        "source": "E:\\AndroidStudioProjects\\OLClass\\OnlineClass\\src\\main\\res\\drawable-xhdpi\\download_green.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\OLClass\\OnlineClass\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\about_circle.png",
+        "source": "E:\\AndroidStudioProjects\\OLClass\\OnlineClass\\src\\main\\res\\drawable-xhdpi\\about_circle.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\OLClass\\OnlineClass\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\user_pressed.png",
+        "source": "E:\\AndroidStudioProjects\\OLClass\\OnlineClass\\src\\main\\res\\drawable-xhdpi\\user_pressed.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\OLClass\\OnlineClass\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\best_head2_pressed.png",
+        "source": "E:\\AndroidStudioProjects\\OLClass\\OnlineClass\\src\\main\\res\\drawable-xhdpi\\best_head2_pressed.png"
+    },
+    {
+        "merged": "E:\\AndP\\OLClass\\OnlineClass\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\user_home.png",
+        "source": "E:\\AndP\\OLClass\\OnlineClass\\src\\main\\res\\drawable-xhdpi\\user_home.png"
+    },
+    {
+        "merged": "E:\\AndP\\OLClass\\OnlineClass\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\about_circle.png",
+        "source": "E:\\AndP\\OLClass\\OnlineClass\\src\\main\\res\\drawable-xhdpi\\about_circle.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\OLClass\\OnlineClass\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\download_pause.png",
+        "source": "E:\\AndroidStudioProjects\\OLClass\\OnlineClass\\src\\main\\res\\drawable-xhdpi\\download_pause.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\OLClass\\OnlineClass\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\seek_ponit.png",
+        "source": "E:\\AndroidStudioProjects\\OLClass\\OnlineClass\\src\\main\\res\\drawable-xhdpi\\seek_ponit.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\OLClass\\OnlineClass\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\seekbar_bg.png",
+        "source": "E:\\AndroidStudioProjects\\OLClass\\OnlineClass\\src\\main\\res\\drawable-xhdpi\\seekbar_bg.png"
+    },
+    {
+        "merged": "E:\\AndP\\OLClass\\OnlineClass\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\name_tag.png",
+        "source": "E:\\AndP\\OLClass\\OnlineClass\\src\\main\\res\\drawable-xhdpi\\name_tag.png"
+    },
+    {
+        "merged": "E:\\AndP\\OLClass\\OnlineClass\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\download_green.png",
+        "source": "E:\\AndP\\OLClass\\OnlineClass\\src\\main\\res\\drawable-xhdpi\\download_green.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\OLClass\\OnlineClass\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\a01.png",
+        "source": "E:\\AndroidStudioProjects\\OLClass\\OnlineClass\\src\\main\\res\\drawable-xhdpi\\a01.png"
+    },
+    {
+        "merged": "E:\\AndP\\OLClass\\OnlineClass\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\phone_white.png",
+        "source": "E:\\AndP\\OLClass\\OnlineClass\\src\\main\\res\\drawable-xhdpi\\phone_white.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\OLClass\\OnlineClass\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\money_normal.png",
+        "source": "E:\\AndroidStudioProjects\\OLClass\\OnlineClass\\src\\main\\res\\drawable-xhdpi\\money_normal.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\OLClass\\OnlineClass\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\page_indicator_focused.png",
+        "source": "E:\\AndroidStudioProjects\\OLClass\\OnlineClass\\src\\main\\res\\drawable-xhdpi\\page_indicator_focused.png"
+    },
+    {
+        "merged": "E:\\AndP\\OLClass\\OnlineClass\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\g_default.png",
+        "source": "E:\\AndP\\OLClass\\OnlineClass\\src\\main\\res\\drawable-xhdpi\\g_default.png"
+    },
+    {
+        "merged": "E:\\AndP\\OLClass\\OnlineClass\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_launcher.png",
+        "source": "E:\\AndP\\OLClass\\OnlineClass\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\AndP\\OLClass\\OnlineClass\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\a04.png",
+        "source": "E:\\AndP\\OLClass\\OnlineClass\\src\\main\\res\\drawable-xhdpi\\a04.png"
+    },
+    {
+        "merged": "E:\\AndP\\OLClass\\OnlineClass\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\setting_normal.png",
+        "source": "E:\\AndP\\OLClass\\OnlineClass\\src\\main\\res\\drawable-xhdpi\\setting_normal.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\OLClass\\OnlineClass\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\exam_pressed.png",
+        "source": "E:\\AndroidStudioProjects\\OLClass\\OnlineClass\\src\\main\\res\\drawable-xhdpi\\exam_pressed.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\OLClass\\OnlineClass\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\chinese_pressed.png",
+        "source": "E:\\AndroidStudioProjects\\OLClass\\OnlineClass\\src\\main\\res\\drawable-xhdpi\\chinese_pressed.png"
+    },
+    {
+        "merged": "E:\\AndP\\OLClass\\OnlineClass\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\phone.png",
+        "source": "E:\\AndP\\OLClass\\OnlineClass\\src\\main\\res\\drawable-xhdpi\\phone.png"
+    },
+    {
+        "merged": "E:\\AndP\\OLClass\\OnlineClass\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\best_head2_pressed.png",
+        "source": "E:\\AndP\\OLClass\\OnlineClass\\src\\main\\res\\drawable-xhdpi\\best_head2_pressed.png"
+    },
+    {
+        "merged": "E:\\AndP\\OLClass\\OnlineClass\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\about_msg_pressed.png",
+        "source": "E:\\AndP\\OLClass\\OnlineClass\\src\\main\\res\\drawable-xhdpi\\about_msg_pressed.png"
+    },
+    {
+        "merged": "E:\\AndP\\OLClass\\OnlineClass\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\password.png",
+        "source": "E:\\AndP\\OLClass\\OnlineClass\\src\\main\\res\\drawable-xhdpi\\password.png"
+    },
+    {
+        "merged": "E:\\AndP\\OLClass\\OnlineClass\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\about_msg_normal.png",
+        "source": "E:\\AndP\\OLClass\\OnlineClass\\src\\main\\res\\drawable-xhdpi\\about_msg_normal.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\OLClass\\OnlineClass\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\english_normal.png",
+        "source": "E:\\AndroidStudioProjects\\OLClass\\OnlineClass\\src\\main\\res\\drawable-xhdpi\\english_normal.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\OLClass\\OnlineClass\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\famous_book_pressed.png",
+        "source": "E:\\AndroidStudioProjects\\OLClass\\OnlineClass\\src\\main\\res\\drawable-xhdpi\\famous_book_pressed.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\OLClass\\OnlineClass\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\phone_white.png",
+        "source": "E:\\AndroidStudioProjects\\OLClass\\OnlineClass\\src\\main\\res\\drawable-xhdpi\\phone_white.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\OLClass\\OnlineClass\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\about_msg_normal.png",
+        "source": "E:\\AndroidStudioProjects\\OLClass\\OnlineClass\\src\\main\\res\\drawable-xhdpi\\about_msg_normal.png"
+    },
+    {
+        "merged": "E:\\AndP\\OLClass\\OnlineClass\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\user_normal.png",
+        "source": "E:\\AndP\\OLClass\\OnlineClass\\src\\main\\res\\drawable-xhdpi\\user_normal.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\OLClass\\OnlineClass\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\register_green.png",
+        "source": "E:\\AndroidStudioProjects\\OLClass\\OnlineClass\\src\\main\\res\\drawable-xhdpi\\register_green.png"
+    },
+    {
+        "merged": "E:\\AndP\\OLClass\\OnlineClass\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\number_pressed.png",
+        "source": "E:\\AndP\\OLClass\\OnlineClass\\src\\main\\res\\drawable-xhdpi\\number_pressed.png"
+    },
+    {
+        "merged": "E:\\AndP\\OLClass\\OnlineClass\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\tab_selected_example.9.png",
+        "source": "E:\\AndP\\OLClass\\OnlineClass\\src\\main\\res\\drawable-xhdpi\\tab_selected_example.9.png"
+    },
+    {
+        "merged": "E:\\AndP\\OLClass\\OnlineClass\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\my_download_pressed.png",
+        "source": "E:\\AndP\\OLClass\\OnlineClass\\src\\main\\res\\drawable-xhdpi\\my_download_pressed.png"
+    },
+    {
+        "merged": "E:\\AndP\\OLClass\\OnlineClass\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\vpi__tab_selected_holo.9.png",
+        "source": "E:\\AndP\\OLClass\\OnlineClass\\src\\main\\res\\drawable-xhdpi\\vpi__tab_selected_holo.9.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\OLClass\\OnlineClass\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\money_pressed.png",
+        "source": "E:\\AndroidStudioProjects\\OLClass\\OnlineClass\\src\\main\\res\\drawable-xhdpi\\money_pressed.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\OLClass\\OnlineClass\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\english_pressed.png",
+        "source": "E:\\AndroidStudioProjects\\OLClass\\OnlineClass\\src\\main\\res\\drawable-xhdpi\\english_pressed.png"
+    },
+    {
+        "merged": "E:\\AndP\\OLClass\\OnlineClass\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\edit_bg.9.png",
+        "source": "E:\\AndP\\OLClass\\OnlineClass\\src\\main\\res\\drawable-xhdpi\\edit_bg.9.png"
+    },
+    {
+        "merged": "E:\\AndP\\OLClass\\OnlineClass\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\about_me_pressed.png",
+        "source": "E:\\AndP\\OLClass\\OnlineClass\\src\\main\\res\\drawable-xhdpi\\about_me_pressed.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\OLClass\\OnlineClass\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\tab_unselected_focused_example.9.png",
+        "source": "E:\\AndroidStudioProjects\\OLClass\\OnlineClass\\src\\main\\res\\drawable-xhdpi\\tab_unselected_focused_example.9.png"
+    },
+    {
+        "merged": "E:\\AndP\\OLClass\\OnlineClass\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\setting_pressed.png",
+        "source": "E:\\AndP\\OLClass\\OnlineClass\\src\\main\\res\\drawable-xhdpi\\setting_pressed.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\OLClass\\OnlineClass\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\game_default.png",
+        "source": "E:\\AndroidStudioProjects\\OLClass\\OnlineClass\\src\\main\\res\\drawable-xhdpi\\game_default.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\OLClass\\OnlineClass\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\tab_unselected_pressed_example.9.png",
+        "source": "E:\\AndroidStudioProjects\\OLClass\\OnlineClass\\src\\main\\res\\drawable-xhdpi\\tab_unselected_pressed_example.9.png"
+    },
+    {
+        "merged": "E:\\AndP\\OLClass\\OnlineClass\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\number_normal.png",
+        "source": "E:\\AndP\\OLClass\\OnlineClass\\src\\main\\res\\drawable-xhdpi\\number_normal.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\OLClass\\OnlineClass\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\tab_selected_pressed_example.9.png",
+        "source": "E:\\AndroidStudioProjects\\OLClass\\OnlineClass\\src\\main\\res\\drawable-xhdpi\\tab_selected_pressed_example.9.png"
+    },
+    {
+        "merged": "E:\\AndP\\OLClass\\OnlineClass\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\head_logo.png",
+        "source": "E:\\AndP\\OLClass\\OnlineClass\\src\\main\\res\\drawable-xhdpi\\head_logo.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\OLClass\\OnlineClass\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\a04.png",
+        "source": "E:\\AndroidStudioProjects\\OLClass\\OnlineClass\\src\\main\\res\\drawable-xhdpi\\a04.png"
+    },
+    {
+        "merged": "E:\\AndP\\OLClass\\OnlineClass\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\best_head3_normal.png",
+        "source": "E:\\AndP\\OLClass\\OnlineClass\\src\\main\\res\\drawable-xhdpi\\best_head3_normal.png"
+    },
+    {
+        "merged": "E:\\AndP\\OLClass\\OnlineClass\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\suo.png",
+        "source": "E:\\AndP\\OLClass\\OnlineClass\\src\\main\\res\\drawable-xhdpi\\suo.png"
+    },
+    {
+        "merged": "E:\\AndP\\OLClass\\OnlineClass\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\checked.png",
+        "source": "E:\\AndP\\OLClass\\OnlineClass\\src\\main\\res\\drawable-xhdpi\\checked.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\OLClass\\OnlineClass\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\tab_selected_focused_example.9.png",
+        "source": "E:\\AndroidStudioProjects\\OLClass\\OnlineClass\\src\\main\\res\\drawable-xhdpi\\tab_selected_focused_example.9.png"
+    },
+    {
+        "merged": "E:\\AndP\\OLClass\\OnlineClass\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\a01.png",
+        "source": "E:\\AndP\\OLClass\\OnlineClass\\src\\main\\res\\drawable-xhdpi\\a01.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\OLClass\\OnlineClass\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\download_del.png",
+        "source": "E:\\AndroidStudioProjects\\OLClass\\OnlineClass\\src\\main\\res\\drawable-xhdpi\\download_del.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\OLClass\\OnlineClass\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\contact_us_normal.png",
+        "source": "E:\\AndroidStudioProjects\\OLClass\\OnlineClass\\src\\main\\res\\drawable-xhdpi\\contact_us_normal.png"
+    },
+    {
+        "merged": "E:\\AndP\\OLClass\\OnlineClass\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\book_blue_bg.9.png",
+        "source": "E:\\AndP\\OLClass\\OnlineClass\\src\\main\\res\\drawable-xhdpi\\book_blue_bg.9.png"
+    },
+    {
+        "merged": "E:\\AndP\\OLClass\\OnlineClass\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\vpi__tab_unselected_holo.9.png",
+        "source": "E:\\AndP\\OLClass\\OnlineClass\\src\\main\\res\\drawable-xhdpi\\vpi__tab_unselected_holo.9.png"
+    },
+    {
+        "merged": "E:\\AndP\\OLClass\\OnlineClass\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\user_pressed.png",
+        "source": "E:\\AndP\\OLClass\\OnlineClass\\src\\main\\res\\drawable-xhdpi\\user_pressed.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\OLClass\\OnlineClass\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\card_tag.png",
+        "source": "E:\\AndroidStudioProjects\\OLClass\\OnlineClass\\src\\main\\res\\drawable-xhdpi\\card_tag.png"
+    },
+    {
+        "merged": "E:\\AndP\\OLClass\\OnlineClass\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\money_normal.png",
+        "source": "E:\\AndP\\OLClass\\OnlineClass\\src\\main\\res\\drawable-xhdpi\\money_normal.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\OLClass\\OnlineClass\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\contact_us_pressed.png",
+        "source": "E:\\AndroidStudioProjects\\OLClass\\OnlineClass\\src\\main\\res\\drawable-xhdpi\\contact_us_pressed.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\OLClass\\OnlineClass\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\about_msg_pressed.png",
+        "source": "E:\\AndroidStudioProjects\\OLClass\\OnlineClass\\src\\main\\res\\drawable-xhdpi\\about_msg_pressed.png"
+    },
+    {
+        "merged": "E:\\AndP\\OLClass\\OnlineClass\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\chinese_normal.png",
+        "source": "E:\\AndP\\OLClass\\OnlineClass\\src\\main\\res\\drawable-xhdpi\\chinese_normal.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\OLClass\\OnlineClass\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\vpi__tab_selected_pressed_holo.9.png",
+        "source": "E:\\AndroidStudioProjects\\OLClass\\OnlineClass\\src\\main\\res\\drawable-xhdpi\\vpi__tab_selected_pressed_holo.9.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\OLClass\\OnlineClass\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\a03.png",
+        "source": "E:\\AndroidStudioProjects\\OLClass\\OnlineClass\\src\\main\\res\\drawable-xhdpi\\a03.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\OLClass\\OnlineClass\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\chinese_normal.png",
+        "source": "E:\\AndroidStudioProjects\\OLClass\\OnlineClass\\src\\main\\res\\drawable-xhdpi\\chinese_normal.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\OLClass\\OnlineClass\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\user_home.png",
+        "source": "E:\\AndroidStudioProjects\\OLClass\\OnlineClass\\src\\main\\res\\drawable-xhdpi\\user_home.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\OLClass\\OnlineClass\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\vpi__tab_selected_holo.9.png",
+        "source": "E:\\AndroidStudioProjects\\OLClass\\OnlineClass\\src\\main\\res\\drawable-xhdpi\\vpi__tab_selected_holo.9.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\OLClass\\OnlineClass\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\best_head3_normal.png",
+        "source": "E:\\AndroidStudioProjects\\OLClass\\OnlineClass\\src\\main\\res\\drawable-xhdpi\\best_head3_normal.png"
+    },
+    {
+        "merged": "E:\\AndP\\OLClass\\OnlineClass\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\password_gray.png",
+        "source": "E:\\AndP\\OLClass\\OnlineClass\\src\\main\\res\\drawable-xhdpi\\password_gray.png"
+    },
+    {
+        "merged": "E:\\AndP\\OLClass\\OnlineClass\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\a02.png",
+        "source": "E:\\AndP\\OLClass\\OnlineClass\\src\\main\\res\\drawable-xhdpi\\a02.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\OLClass\\OnlineClass\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\best_head2_normal.png",
+        "source": "E:\\AndroidStudioProjects\\OLClass\\OnlineClass\\src\\main\\res\\drawable-xhdpi\\best_head2_normal.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\OLClass\\OnlineClass\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\book_blue_bg.9.png",
+        "source": "E:\\AndroidStudioProjects\\OLClass\\OnlineClass\\src\\main\\res\\drawable-xhdpi\\book_blue_bg.9.png"
+    },
+    {
+        "merged": "E:\\AndP\\OLClass\\OnlineClass\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\image_page_bg.png",
+        "source": "E:\\AndP\\OLClass\\OnlineClass\\src\\main\\res\\drawable-xhdpi\\image_page_bg.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\OLClass\\OnlineClass\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\best_head1_pressed.png",
+        "source": "E:\\AndroidStudioProjects\\OLClass\\OnlineClass\\src\\main\\res\\drawable-xhdpi\\best_head1_pressed.png"
+    },
+    {
+        "merged": "E:\\AndP\\OLClass\\OnlineClass\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\vpi__tab_unselected_focused_holo.9.png",
+        "source": "E:\\AndP\\OLClass\\OnlineClass\\src\\main\\res\\drawable-xhdpi\\vpi__tab_unselected_focused_holo.9.png"
+    },
+    {
+        "merged": "E:\\AndP\\OLClass\\OnlineClass\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\register_edit.png",
+        "source": "E:\\AndP\\OLClass\\OnlineClass\\src\\main\\res\\drawable-xhdpi\\register_edit.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\OLClass\\OnlineClass\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\best_head1_normal.png",
+        "source": "E:\\AndroidStudioProjects\\OLClass\\OnlineClass\\src\\main\\res\\drawable-xhdpi\\best_head1_normal.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\OLClass\\OnlineClass\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\suo.png",
+        "source": "E:\\AndroidStudioProjects\\OLClass\\OnlineClass\\src\\main\\res\\drawable-xhdpi\\suo.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\OLClass\\OnlineClass\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\my_download_normal.png",
+        "source": "E:\\AndroidStudioProjects\\OLClass\\OnlineClass\\src\\main\\res\\drawable-xhdpi\\my_download_normal.png"
+    },
+    {
+        "merged": "E:\\AndP\\OLClass\\OnlineClass\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\vpi__tab_unselected_pressed_holo.9.png",
+        "source": "E:\\AndP\\OLClass\\OnlineClass\\src\\main\\res\\drawable-xhdpi\\vpi__tab_unselected_pressed_holo.9.png"
+    },
+    {
+        "merged": "E:\\AndP\\OLClass\\OnlineClass\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\book_default.png",
+        "source": "E:\\AndP\\OLClass\\OnlineClass\\src\\main\\res\\drawable-xhdpi\\book_default.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\OLClass\\OnlineClass\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\my_download_pressed.png",
+        "source": "E:\\AndroidStudioProjects\\OLClass\\OnlineClass\\src\\main\\res\\drawable-xhdpi\\my_download_pressed.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\OLClass\\OnlineClass\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\about_msg_green.png",
+        "source": "E:\\AndroidStudioProjects\\OLClass\\OnlineClass\\src\\main\\res\\drawable-xhdpi\\about_msg_green.png"
+    },
+    {
+        "merged": "E:\\AndP\\OLClass\\OnlineClass\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\a03.png",
+        "source": "E:\\AndP\\OLClass\\OnlineClass\\src\\main\\res\\drawable-xhdpi\\a03.png"
+    },
+    {
+        "merged": "E:\\AndP\\OLClass\\OnlineClass\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\vpi__tab_selected_focused_holo.9.png",
+        "source": "E:\\AndP\\OLClass\\OnlineClass\\src\\main\\res\\drawable-xhdpi\\vpi__tab_selected_focused_holo.9.png"
+    },
+    {
+        "merged": "E:\\AndP\\OLClass\\OnlineClass\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\download_pause.png",
+        "source": "E:\\AndP\\OLClass\\OnlineClass\\src\\main\\res\\drawable-xhdpi\\download_pause.png"
+    },
+    {
+        "merged": "E:\\AndP\\OLClass\\OnlineClass\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\card_tag.png",
+        "source": "E:\\AndP\\OLClass\\OnlineClass\\src\\main\\res\\drawable-xhdpi\\card_tag.png"
+    },
+    {
+        "merged": "E:\\AndP\\OLClass\\OnlineClass\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\english_pressed.png",
+        "source": "E:\\AndP\\OLClass\\OnlineClass\\src\\main\\res\\drawable-xhdpi\\english_pressed.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\OLClass\\OnlineClass\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\book_default.png",
+        "source": "E:\\AndroidStudioProjects\\OLClass\\OnlineClass\\src\\main\\res\\drawable-xhdpi\\book_default.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\OLClass\\OnlineClass\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\user_home_pressed.png",
+        "source": "E:\\AndroidStudioProjects\\OLClass\\OnlineClass\\src\\main\\res\\drawable-xhdpi\\user_home_pressed.png"
+    },
+    {
+        "merged": "E:\\AndP\\OLClass\\OnlineClass\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\best_head3_pressed.png",
+        "source": "E:\\AndP\\OLClass\\OnlineClass\\src\\main\\res\\drawable-xhdpi\\best_head3_pressed.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\OLClass\\OnlineClass\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\a02.png",
+        "source": "E:\\AndroidStudioProjects\\OLClass\\OnlineClass\\src\\main\\res\\drawable-xhdpi\\a02.png"
+    },
+    {
+        "merged": "E:\\AndP\\OLClass\\OnlineClass\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\tab_selected_pressed_example.9.png",
+        "source": "E:\\AndP\\OLClass\\OnlineClass\\src\\main\\res\\drawable-xhdpi\\tab_selected_pressed_example.9.png"
+    },
+    {
+        "merged": "E:\\AndP\\OLClass\\OnlineClass\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\exam_normal.png",
+        "source": "E:\\AndP\\OLClass\\OnlineClass\\src\\main\\res\\drawable-xhdpi\\exam_normal.png"
+    },
+    {
+        "merged": "E:\\AndP\\OLClass\\OnlineClass\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\user_head.png",
+        "source": "E:\\AndP\\OLClass\\OnlineClass\\src\\main\\res\\drawable-xhdpi\\user_head.png"
+    },
+    {
+        "merged": "E:\\AndP\\OLClass\\OnlineClass\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\contact_us_normal.png",
+        "source": "E:\\AndP\\OLClass\\OnlineClass\\src\\main\\res\\drawable-xhdpi\\contact_us_normal.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\OLClass\\OnlineClass\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\b_default.png",
+        "source": "E:\\AndroidStudioProjects\\OLClass\\OnlineClass\\src\\main\\res\\drawable-xhdpi\\b_default.png"
+    },
+    {
+        "merged": "E:\\AndP\\OLClass\\OnlineClass\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\best_head1_pressed.png",
+        "source": "E:\\AndP\\OLClass\\OnlineClass\\src\\main\\res\\drawable-xhdpi\\best_head1_pressed.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\OLClass\\OnlineClass\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\number_pressed.png",
+        "source": "E:\\AndroidStudioProjects\\OLClass\\OnlineClass\\src\\main\\res\\drawable-xhdpi\\number_pressed.png"
+    },
+    {
+        "merged": "E:\\AndP\\OLClass\\OnlineClass\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\english_normal.png",
+        "source": "E:\\AndP\\OLClass\\OnlineClass\\src\\main\\res\\drawable-xhdpi\\english_normal.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\OLClass\\OnlineClass\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\checked.png",
+        "source": "E:\\AndroidStudioProjects\\OLClass\\OnlineClass\\src\\main\\res\\drawable-xhdpi\\checked.png"
+    },
+    {
+        "merged": "E:\\AndP\\OLClass\\OnlineClass\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\book_coner.png",
+        "source": "E:\\AndP\\OLClass\\OnlineClass\\src\\main\\res\\drawable-xhdpi\\book_coner.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\OLClass\\OnlineClass\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\load_more.png",
+        "source": "E:\\AndroidStudioProjects\\OLClass\\OnlineClass\\src\\main\\res\\drawable-xhdpi\\load_more.png"
+    },
+    {
+        "merged": "E:\\AndP\\OLClass\\OnlineClass\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\setting_pressed_list_bg.9.png",
+        "source": "E:\\AndP\\OLClass\\OnlineClass\\src\\main\\res\\drawable-xhdpi\\setting_pressed_list_bg.9.png"
+    },
+    {
+        "merged": "E:\\AndP\\OLClass\\OnlineClass\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\page_indicator_focused.png",
+        "source": "E:\\AndP\\OLClass\\OnlineClass\\src\\main\\res\\drawable-xhdpi\\page_indicator_focused.png"
+    },
+    {
+        "merged": "E:\\AndP\\OLClass\\OnlineClass\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\no_checked.png",
+        "source": "E:\\AndP\\OLClass\\OnlineClass\\src\\main\\res\\drawable-xhdpi\\no_checked.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\OLClass\\OnlineClass\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\exam_book_bg.png",
+        "source": "E:\\AndroidStudioProjects\\OLClass\\OnlineClass\\src\\main\\res\\drawable-xhdpi\\exam_book_bg.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\OLClass\\OnlineClass\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\page_indicator_unfocused.png",
+        "source": "E:\\AndroidStudioProjects\\OLClass\\OnlineClass\\src\\main\\res\\drawable-xhdpi\\page_indicator_unfocused.png"
+    },
+    {
+        "merged": "E:\\AndP\\OLClass\\OnlineClass\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\b_default.png",
+        "source": "E:\\AndP\\OLClass\\OnlineClass\\src\\main\\res\\drawable-xhdpi\\b_default.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\OLClass\\OnlineClass\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\about_me_normal.png",
+        "source": "E:\\AndroidStudioProjects\\OLClass\\OnlineClass\\src\\main\\res\\drawable-xhdpi\\about_me_normal.png"
+    },
+    {
+        "merged": "E:\\AndP\\OLClass\\OnlineClass\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\english_default.png",
+        "source": "E:\\AndP\\OLClass\\OnlineClass\\src\\main\\res\\drawable-xhdpi\\english_default.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\OLClass\\OnlineClass\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\user_head.png",
+        "source": "E:\\AndroidStudioProjects\\OLClass\\OnlineClass\\src\\main\\res\\drawable-xhdpi\\user_head.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\OLClass\\OnlineClass\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\vpi__tab_unselected_focused_holo.9.png",
+        "source": "E:\\AndroidStudioProjects\\OLClass\\OnlineClass\\src\\main\\res\\drawable-xhdpi\\vpi__tab_unselected_focused_holo.9.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\OLClass\\OnlineClass\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\vpi__tab_selected_focused_holo.9.png",
+        "source": "E:\\AndroidStudioProjects\\OLClass\\OnlineClass\\src\\main\\res\\drawable-xhdpi\\vpi__tab_selected_focused_holo.9.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\OLClass\\OnlineClass\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\vpi__tab_unselected_holo.9.png",
+        "source": "E:\\AndroidStudioProjects\\OLClass\\OnlineClass\\src\\main\\res\\drawable-xhdpi\\vpi__tab_unselected_holo.9.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\OLClass\\OnlineClass\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\tab_selected_example.9.png",
+        "source": "E:\\AndroidStudioProjects\\OLClass\\OnlineClass\\src\\main\\res\\drawable-xhdpi\\tab_selected_example.9.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\OLClass\\OnlineClass\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\setting_normal.png",
+        "source": "E:\\AndroidStudioProjects\\OLClass\\OnlineClass\\src\\main\\res\\drawable-xhdpi\\setting_normal.png"
+    },
+    {
+        "merged": "E:\\AndP\\OLClass\\OnlineClass\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\exam_book_bg.png",
+        "source": "E:\\AndP\\OLClass\\OnlineClass\\src\\main\\res\\drawable-xhdpi\\exam_book_bg.png"
+    },
+    {
+        "merged": "E:\\AndP\\OLClass\\OnlineClass\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\best_head2_normal.png",
+        "source": "E:\\AndP\\OLClass\\OnlineClass\\src\\main\\res\\drawable-xhdpi\\best_head2_normal.png"
+    },
+    {
+        "merged": "E:\\AndP\\OLClass\\OnlineClass\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\famous_book_normal.png",
+        "source": "E:\\AndP\\OLClass\\OnlineClass\\src\\main\\res\\drawable-xhdpi\\famous_book_normal.png"
+    },
+    {
+        "merged": "E:\\AndP\\OLClass\\OnlineClass\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\best_head1_normal.png",
+        "source": "E:\\AndP\\OLClass\\OnlineClass\\src\\main\\res\\drawable-xhdpi\\best_head1_normal.png"
+    },
+    {
+        "merged": "E:\\AndP\\OLClass\\OnlineClass\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\famous_book_pressed.png",
+        "source": "E:\\AndP\\OLClass\\OnlineClass\\src\\main\\res\\drawable-xhdpi\\famous_book_pressed.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\OLClass\\OnlineClass\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\about_me_pressed.png",
+        "source": "E:\\AndroidStudioProjects\\OLClass\\OnlineClass\\src\\main\\res\\drawable-xhdpi\\about_me_pressed.png"
+    }
+]

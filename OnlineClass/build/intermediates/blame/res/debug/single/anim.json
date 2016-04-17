@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "E:\\AndroidStudioProjects\\OLClass\\OnlineClass\\build\\intermediates\\res\\merged\\debug\\anim\\browse_anim_out.xml",
+        "source": "E:\\AndroidStudioProjects\\OLClass\\OnlineClass\\src\\main\\res\\anim\\browse_anim_out.xml"
+    },
+    {
+        "merged": "E:\\AndP\\OLClass\\OnlineClass\\build\\intermediates\\res\\merged\\debug\\anim\\menu_bottom_out.xml",
+        "source": "E:\\AndP\\OLClass\\OnlineClass\\src\\main\\res\\anim\\menu_bottom_out.xml"
+    },
+    {
+        "merged": "E:\\AndP\\OLClass\\OnlineClass\\build\\intermediates\\res\\merged\\debug\\anim\\browse_anim_in.xml",
+        "source": "E:\\AndP\\OLClass\\OnlineClass\\src\\main\\res\\anim\\browse_anim_in.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\OLClass\\OnlineClass\\build\\intermediates\\res\\merged\\debug\\anim\\menu_bottom_in.xml",
+        "source": "E:\\AndroidStudioProjects\\OLClass\\OnlineClass\\src\\main\\res\\anim\\menu_bottom_in.xml"
+    },
+    {
+        "merged": "E:\\AndP\\OLClass\\OnlineClass\\build\\intermediates\\res\\merged\\debug\\anim\\menu_bottom_in.xml",
+        "source": "E:\\AndP\\OLClass\\OnlineClass\\src\\main\\res\\anim\\menu_bottom_in.xml"
+    },
+    {
+        "merged": "E:\\AndP\\OLClass\\OnlineClass\\build\\intermediates\\res\\merged\\debug\\anim\\browse_anim_out.xml",
+        "source": "E:\\AndP\\OLClass\\OnlineClass\\src\\main\\res\\anim\\browse_anim_out.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\OLClass\\OnlineClass\\build\\intermediates\\res\\merged\\debug\\anim\\browse_anim_in.xml",
+        "source": "E:\\AndroidStudioProjects\\OLClass\\OnlineClass\\src\\main\\res\\anim\\browse_anim_in.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\OLClass\\OnlineClass\\build\\intermediates\\res\\merged\\debug\\anim\\menu_bottom_out.xml",
+        "source": "E:\\AndroidStudioProjects\\OLClass\\OnlineClass\\src\\main\\res\\anim\\menu_bottom_out.xml"
+    }
+]

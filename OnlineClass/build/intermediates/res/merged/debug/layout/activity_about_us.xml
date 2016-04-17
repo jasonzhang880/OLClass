@@ -1,0 +1,72 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/base_bg_color"
+    android:orientation="vertical"
+    android:padding="10dp" >
+
+    <include
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        layout="@layout/view_bar_head" />
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="3"
+        android:orientation="vertical" >
+
+        <TextView
+            android:id="@+id/tv_intr"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:singleLine="true"
+            android:text="@string/introduce"
+            android:textColor="@color/base_text_color"
+            android:textSize="@dimen/txt_h1" >
+        </TextView>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:orientation="vertical" >
+
+            <TextView
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:singleLine="true"
+                android:text="@string/server_phone"
+                android:textColor="@color/base_text_color"
+                android:textSize="@dimen/txt_h3" />
+
+            <TextView
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="10dp"
+                android:layout_marginTop="50dp"
+                android:gravity="center"
+                android:singleLine="true"
+                android:text="@string/copyright"
+                android:textColor="@color/base_text_color"
+                android:textSize="@dimen/txt_h5" />
+        </LinearLayout>
+
+        <TextView
+        
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_below="@+id/tv_intr"
+            android:layout_marginLeft="25dp"
+            android:layout_marginTop="33dp"
+            android:gravity="center"
+            android:text="小学语文在线学习，让学生接触到更多的阅读资料，扩展阅读面，同时很大程度上促进学生和家长之间的沟通和交流"
+            android:textSize="20dp"/>
+
+    </RelativeLayout>
+
+</LinearLayout>

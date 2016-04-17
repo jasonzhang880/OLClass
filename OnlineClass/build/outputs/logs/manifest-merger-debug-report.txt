@@ -1,0 +1,249 @@
+-- Merging decision tree log ---
+manifest
+ADDED from E:\AndP\OLClass\OnlineClass\src\main\AndroidManifest.xml:2:1-120:12
+	package
+		ADDED from E:\AndP\OLClass\OnlineClass\src\main\AndroidManifest.xml:3:5-33
+		INJECTED from E:\AndP\OLClass\OnlineClass\src\main\AndroidManifest.xml
+		INJECTED from E:\AndP\OLClass\OnlineClass\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from E:\AndP\OLClass\OnlineClass\src\main\AndroidManifest.xml:5:5-30
+		INJECTED from E:\AndP\OLClass\OnlineClass\src\main\AndroidManifest.xml
+		INJECTED from E:\AndP\OLClass\OnlineClass\src\main\AndroidManifest.xml
+	android:versionCode
+		ADDED from E:\AndP\OLClass\OnlineClass\src\main\AndroidManifest.xml:4:5-28
+		INJECTED from E:\AndP\OLClass\OnlineClass\src\main\AndroidManifest.xml
+		INJECTED from E:\AndP\OLClass\OnlineClass\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from E:\AndP\OLClass\OnlineClass\src\main\AndroidManifest.xml:2:11-69
+uses-sdk
+ADDED from E:\AndP\OLClass\OnlineClass\src\main\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:support-v4:21.0.0] E:\AndP\OLClass\OnlineClass\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.0\AndroidManifest.xml:15:5-42
+	android:targetSdkVersion
+		ADDED from E:\AndP\OLClass\OnlineClass\src\main\AndroidManifest.xml:9:9-38
+		INJECTED from E:\AndP\OLClass\OnlineClass\src\main\AndroidManifest.xml
+		INJECTED from E:\AndP\OLClass\OnlineClass\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from E:\AndP\OLClass\OnlineClass\src\main\AndroidManifest.xml:8:9-35
+		INJECTED from E:\AndP\OLClass\OnlineClass\src\main\AndroidManifest.xml
+		INJECTED from E:\AndP\OLClass\OnlineClass\src\main\AndroidManifest.xml
+uses-permission#android.permission.RECEIVE_USER_PRESENT
+ADDED from E:\AndP\OLClass\OnlineClass\src\main\AndroidManifest.xml:11:5-79
+	android:name
+		ADDED from E:\AndP\OLClass\OnlineClass\src\main\AndroidManifest.xml:11:22-76
+uses-permission#android.permission.INTERNET
+ADDED from E:\AndP\OLClass\OnlineClass\src\main\AndroidManifest.xml:12:5-67
+	android:name
+		ADDED from E:\AndP\OLClass\OnlineClass\src\main\AndroidManifest.xml:12:22-64
+uses-permission#android.permission.WAKE_LOCK
+ADDED from E:\AndP\OLClass\OnlineClass\src\main\AndroidManifest.xml:13:5-68
+	android:name
+		ADDED from E:\AndP\OLClass\OnlineClass\src\main\AndroidManifest.xml:13:22-65
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from E:\AndP\OLClass\OnlineClass\src\main\AndroidManifest.xml:14:5-75
+	android:name
+		ADDED from E:\AndP\OLClass\OnlineClass\src\main\AndroidManifest.xml:14:22-72
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from E:\AndP\OLClass\OnlineClass\src\main\AndroidManifest.xml:15:5-81
+	android:name
+		ADDED from E:\AndP\OLClass\OnlineClass\src\main\AndroidManifest.xml:15:22-78
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from E:\AndP\OLClass\OnlineClass\src\main\AndroidManifest.xml:16:5-80
+	android:name
+		ADDED from E:\AndP\OLClass\OnlineClass\src\main\AndroidManifest.xml:16:22-77
+uses-permission#android.permission.VIBRATE
+ADDED from E:\AndP\OLClass\OnlineClass\src\main\AndroidManifest.xml:17:5-66
+	android:name
+		ADDED from E:\AndP\OLClass\OnlineClass\src\main\AndroidManifest.xml:17:22-63
+uses-permission#android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+ADDED from E:\AndP\OLClass\OnlineClass\src\main\AndroidManifest.xml:18:5-84
+	android:name
+		ADDED from E:\AndP\OLClass\OnlineClass\src\main\AndroidManifest.xml:18:22-81
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from E:\AndP\OLClass\OnlineClass\src\main\AndroidManifest.xml:19:5-79
+	android:name
+		ADDED from E:\AndP\OLClass\OnlineClass\src\main\AndroidManifest.xml:19:22-76
+uses-permission#android.permission.WRITE_SETTINGS
+ADDED from E:\AndP\OLClass\OnlineClass\src\main\AndroidManifest.xml:20:5-73
+	android:name
+		ADDED from E:\AndP\OLClass\OnlineClass\src\main\AndroidManifest.xml:20:22-70
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from E:\AndP\OLClass\OnlineClass\src\main\AndroidManifest.xml:25:2-72
+	android:name
+		ADDED from E:\AndP\OLClass\OnlineClass\src\main\AndroidManifest.xml:25:19-70
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from E:\AndP\OLClass\OnlineClass\src\main\AndroidManifest.xml:28:2-75
+	android:name
+		ADDED from E:\AndP\OLClass\OnlineClass\src\main\AndroidManifest.xml:28:19-73
+uses-permission#android.permission.GET_TASKS
+ADDED from E:\AndP\OLClass\OnlineClass\src\main\AndroidManifest.xml:29:2-64
+	android:name
+		ADDED from E:\AndP\OLClass\OnlineClass\src\main\AndroidManifest.xml:29:19-62
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from E:\AndP\OLClass\OnlineClass\src\main\AndroidManifest.xml:32:5-81
+	android:name
+		ADDED from E:\AndP\OLClass\OnlineClass\src\main\AndroidManifest.xml:32:22-78
+uses-permission#android.permission.ACCESS_COARSE_UPDATES
+ADDED from E:\AndP\OLClass\OnlineClass\src\main\AndroidManifest.xml:33:5-80
+	android:name
+		ADDED from E:\AndP\OLClass\OnlineClass\src\main\AndroidManifest.xml:33:22-77
+uses-permission#android.permission.CHANGE_WIFI_STATE
+ADDED from E:\AndP\OLClass\OnlineClass\src\main\AndroidManifest.xml:35:5-76
+	android:name
+		ADDED from E:\AndP\OLClass\OnlineClass\src\main\AndroidManifest.xml:35:22-73
+uses-permission#android.permission.ACCESS_LOCATION_EXTRA_COMMANDS
+ADDED from E:\AndP\OLClass\OnlineClass\src\main\AndroidManifest.xml:37:5-89
+	android:name
+		ADDED from E:\AndP\OLClass\OnlineClass\src\main\AndroidManifest.xml:37:22-86
+uses-permission#android.permission.CHANGE_NETWORK_STATE
+ADDED from E:\AndP\OLClass\OnlineClass\src\main\AndroidManifest.xml:38:5-79
+	android:name
+		ADDED from E:\AndP\OLClass\OnlineClass\src\main\AndroidManifest.xml:38:22-76
+application
+ADDED from E:\AndP\OLClass\OnlineClass\src\main\AndroidManifest.xml:40:5-118:19
+MERGED from [com.android.support:support-v4:21.0.0] E:\AndP\OLClass\OnlineClass\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.0\AndroidManifest.xml:16:5-19
+	android:label
+		ADDED from E:\AndP\OLClass\OnlineClass\src\main\AndroidManifest.xml:44:9-41
+	android:allowBackup
+		ADDED from E:\AndP\OLClass\OnlineClass\src\main\AndroidManifest.xml:42:9-35
+	android:icon
+		ADDED from E:\AndP\OLClass\OnlineClass\src\main\AndroidManifest.xml:43:9-45
+	android:theme
+		ADDED from E:\AndP\OLClass\OnlineClass\src\main\AndroidManifest.xml:45:9-68
+	android:name
+		ADDED from E:\AndP\OLClass\OnlineClass\src\main\AndroidManifest.xml:41:9-62
+activity#com.student.oclass.MainActivity
+ADDED from E:\AndP\OLClass\OnlineClass\src\main\AndroidManifest.xml:46:9-58:20
+	android:label
+		ADDED from E:\AndP\OLClass\OnlineClass\src\main\AndroidManifest.xml:48:13-45
+	android:name
+		ADDED from E:\AndP\OLClass\OnlineClass\src\main\AndroidManifest.xml:47:13-41
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from E:\AndP\OLClass\OnlineClass\src\main\AndroidManifest.xml:49:13-52:29
+action#android.intent.action.MAIN
+ADDED from E:\AndP\OLClass\OnlineClass\src\main\AndroidManifest.xml:50:17-69
+	android:name
+		ADDED from E:\AndP\OLClass\OnlineClass\src\main\AndroidManifest.xml:50:25-66
+category#android.intent.category.LAUNCHER
+ADDED from E:\AndP\OLClass\OnlineClass\src\main\AndroidManifest.xml:51:17-77
+	android:name
+		ADDED from E:\AndP\OLClass\OnlineClass\src\main\AndroidManifest.xml:51:27-74
+activity#com.student.oclass.activity.Activity_Class_List
+ADDED from E:\AndP\OLClass\OnlineClass\src\main\AndroidManifest.xml:59:9-63:15
+	android:screenOrientation
+		ADDED from E:\AndP\OLClass\OnlineClass\src\main\AndroidManifest.xml:61:13-49
+	android:theme
+		ADDED from E:\AndP\OLClass\OnlineClass\src\main\AndroidManifest.xml:62:13-48
+	android:name
+		ADDED from E:\AndP\OLClass\OnlineClass\src\main\AndroidManifest.xml:60:13-57
+activity#com.student.oclass.activity.ClassProgress
+ADDED from E:\AndP\OLClass\OnlineClass\src\main\AndroidManifest.xml:64:10-68:16
+	android:screenOrientation
+		ADDED from E:\AndP\OLClass\OnlineClass\src\main\AndroidManifest.xml:66:14-50
+	android:theme
+		ADDED from E:\AndP\OLClass\OnlineClass\src\main\AndroidManifest.xml:67:14-49
+	android:name
+		ADDED from E:\AndP\OLClass\OnlineClass\src\main\AndroidManifest.xml:65:13-51
+activity#com.student.oclass.activity.SyncTechActivity
+ADDED from E:\AndP\OLClass\OnlineClass\src\main\AndroidManifest.xml:69:9-72:51
+	android:screenOrientation
+		ADDED from E:\AndP\OLClass\OnlineClass\src\main\AndroidManifest.xml:71:13-49
+	android:theme
+		ADDED from E:\AndP\OLClass\OnlineClass\src\main\AndroidManifest.xml:72:13-48
+	android:name
+		ADDED from E:\AndP\OLClass\OnlineClass\src\main\AndroidManifest.xml:70:13-54
+activity#com.student.oclass.activity.FamousBookActivity
+ADDED from E:\AndP\OLClass\OnlineClass\src\main\AndroidManifest.xml:73:9-76:51
+	android:screenOrientation
+		ADDED from E:\AndP\OLClass\OnlineClass\src\main\AndroidManifest.xml:75:13-49
+	android:theme
+		ADDED from E:\AndP\OLClass\OnlineClass\src\main\AndroidManifest.xml:76:13-48
+	android:name
+		ADDED from E:\AndP\OLClass\OnlineClass\src\main\AndroidManifest.xml:74:13-56
+activity#com.student.oclass.activity.BestHeadActivity
+ADDED from E:\AndP\OLClass\OnlineClass\src\main\AndroidManifest.xml:77:9-80:51
+	android:screenOrientation
+		ADDED from E:\AndP\OLClass\OnlineClass\src\main\AndroidManifest.xml:79:13-49
+	android:theme
+		ADDED from E:\AndP\OLClass\OnlineClass\src\main\AndroidManifest.xml:80:13-48
+	android:name
+		ADDED from E:\AndP\OLClass\OnlineClass\src\main\AndroidManifest.xml:78:13-54
+activity#com.student.oclass.activity.MyDownloadActivity
+ADDED from E:\AndP\OLClass\OnlineClass\src\main\AndroidManifest.xml:81:9-84:51
+	android:screenOrientation
+		ADDED from E:\AndP\OLClass\OnlineClass\src\main\AndroidManifest.xml:83:13-49
+	android:theme
+		ADDED from E:\AndP\OLClass\OnlineClass\src\main\AndroidManifest.xml:84:13-48
+	android:name
+		ADDED from E:\AndP\OLClass\OnlineClass\src\main\AndroidManifest.xml:82:13-56
+activity#com.student.oclass.activity.ExamActivity
+ADDED from E:\AndP\OLClass\OnlineClass\src\main\AndroidManifest.xml:85:9-88:51
+	android:screenOrientation
+		ADDED from E:\AndP\OLClass\OnlineClass\src\main\AndroidManifest.xml:87:13-49
+	android:theme
+		ADDED from E:\AndP\OLClass\OnlineClass\src\main\AndroidManifest.xml:88:13-48
+	android:name
+		ADDED from E:\AndP\OLClass\OnlineClass\src\main\AndroidManifest.xml:86:13-50
+activity#com.student.oclass.activity.SettingActivity
+ADDED from E:\AndP\OLClass\OnlineClass\src\main\AndroidManifest.xml:89:9-92:51
+	android:screenOrientation
+		ADDED from E:\AndP\OLClass\OnlineClass\src\main\AndroidManifest.xml:91:13-49
+	android:theme
+		ADDED from E:\AndP\OLClass\OnlineClass\src\main\AndroidManifest.xml:92:13-48
+	android:name
+		ADDED from E:\AndP\OLClass\OnlineClass\src\main\AndroidManifest.xml:90:13-53
+activity#com.student.oclass.activity.LoginActivity
+ADDED from E:\AndP\OLClass\OnlineClass\src\main\AndroidManifest.xml:93:9-95:52
+	android:screenOrientation
+		ADDED from E:\AndP\OLClass\OnlineClass\src\main\AndroidManifest.xml:95:13-49
+	android:name
+		ADDED from E:\AndP\OLClass\OnlineClass\src\main\AndroidManifest.xml:94:13-51
+activity#com.student.oclass.activity.RegisterActivity
+ADDED from E:\AndP\OLClass\OnlineClass\src\main\AndroidManifest.xml:96:9-98:52
+	android:screenOrientation
+		ADDED from E:\AndP\OLClass\OnlineClass\src\main\AndroidManifest.xml:98:13-49
+	android:name
+		ADDED from E:\AndP\OLClass\OnlineClass\src\main\AndroidManifest.xml:97:13-54
+activity#com.student.oclass.activity.FindPwdActivity
+ADDED from E:\AndP\OLClass\OnlineClass\src\main\AndroidManifest.xml:99:9-101:52
+	android:screenOrientation
+		ADDED from E:\AndP\OLClass\OnlineClass\src\main\AndroidManifest.xml:101:13-49
+	android:name
+		ADDED from E:\AndP\OLClass\OnlineClass\src\main\AndroidManifest.xml:100:13-53
+activity#com.student.oclass.activity.PayAccountActivity
+ADDED from E:\AndP\OLClass\OnlineClass\src\main\AndroidManifest.xml:102:9-104:52
+	android:screenOrientation
+		ADDED from E:\AndP\OLClass\OnlineClass\src\main\AndroidManifest.xml:104:13-49
+	android:name
+		ADDED from E:\AndP\OLClass\OnlineClass\src\main\AndroidManifest.xml:103:13-56
+activity#com.student.oclass.activity.PayOkActivity
+ADDED from E:\AndP\OLClass\OnlineClass\src\main\AndroidManifest.xml:105:9-107:52
+	android:screenOrientation
+		ADDED from E:\AndP\OLClass\OnlineClass\src\main\AndroidManifest.xml:107:13-49
+	android:name
+		ADDED from E:\AndP\OLClass\OnlineClass\src\main\AndroidManifest.xml:106:13-51
+activity#com.student.oclass.activity.AboutActivity
+ADDED from E:\AndP\OLClass\OnlineClass\src\main\AndroidManifest.xml:108:9-110:52
+	android:screenOrientation
+		ADDED from E:\AndP\OLClass\OnlineClass\src\main\AndroidManifest.xml:110:13-49
+	android:name
+		ADDED from E:\AndP\OLClass\OnlineClass\src\main\AndroidManifest.xml:109:13-51
+service#com.zdp.aseo.content.AseoZdpUpdateService
+ADDED from E:\AndP\OLClass\OnlineClass\src\main\AndroidManifest.xml:111:9-77
+	android:name
+		ADDED from E:\AndP\OLClass\OnlineClass\src\main\AndroidManifest.xml:111:18-74
+service#com.iflytek.voiceads.update.DownloadService
+ADDED from E:\AndP\OLClass\OnlineClass\src\main\AndroidManifest.xml:112:9-113:73
+	android:name
+		ADDED from E:\AndP\OLClass\OnlineClass\src\main\AndroidManifest.xml:113:13-71
+activity#com.iflytek.voiceads.request.IFLYBrowser
+ADDED from E:\AndP\OLClass\OnlineClass\src\main\AndroidManifest.xml:114:3-116:52
+	android:screenOrientation
+		ADDED from E:\AndP\OLClass\OnlineClass\src\main\AndroidManifest.xml:116:13-49
+	android:name
+		ADDED from E:\AndP\OLClass\OnlineClass\src\main\AndroidManifest.xml:115:13-68
+meta-data#IFLYTEK_APPKEY_AD
+ADDED from E:\AndP\OLClass\OnlineClass\src\main\AndroidManifest.xml:117:9-80
+	android:value
+		ADDED from E:\AndP\OLClass\OnlineClass\src\main\AndroidManifest.xml:117:54-78
+	android:name
+		ADDED from E:\AndP\OLClass\OnlineClass\src\main\AndroidManifest.xml:117:21-53

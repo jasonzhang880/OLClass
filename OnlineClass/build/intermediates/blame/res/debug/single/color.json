@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "E:\\AndroidStudioProjects\\OLClass\\OnlineClass\\build\\intermediates\\res\\merged\\debug\\color\\vpi__dark_theme.xml",
+        "source": "E:\\AndroidStudioProjects\\OLClass\\OnlineClass\\src\\main\\res\\color\\vpi__dark_theme.xml"
+    },
+    {
+        "merged": "E:\\AndP\\OLClass\\OnlineClass\\build\\intermediates\\res\\merged\\debug\\color\\vpi__dark_theme.xml",
+        "source": "E:\\AndP\\OLClass\\OnlineClass\\src\\main\\res\\color\\vpi__dark_theme.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\OLClass\\OnlineClass\\build\\intermediates\\res\\merged\\debug\\color\\vpi__light_theme.xml",
+        "source": "E:\\AndroidStudioProjects\\OLClass\\OnlineClass\\src\\main\\res\\color\\vpi__light_theme.xml"
+    },
+    {
+        "merged": "E:\\AndP\\OLClass\\OnlineClass\\build\\intermediates\\res\\merged\\debug\\color\\vpi__light_theme.xml",
+        "source": "E:\\AndP\\OLClass\\OnlineClass\\src\\main\\res\\color\\vpi__light_theme.xml"
+    }
+]

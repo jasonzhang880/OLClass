@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "E:\\AndP\\OLClass\\OnlineClass\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_launcher.png",
+        "source": "E:\\AndP\\OLClass\\OnlineClass\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\OLClass\\OnlineClass\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_launcher.png",
+        "source": "E:\\AndroidStudioProjects\\OLClass\\OnlineClass\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    }
+]
